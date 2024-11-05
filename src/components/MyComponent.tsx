@@ -1,7 +1,9 @@
-fucntion MyComponent(){
+function MyComponent(){
 
-return(<>
-</>)
-}
+return(
+    <>
 
-export default MyConponent;
+    </>
+)}
+
+export default MyComponent;
